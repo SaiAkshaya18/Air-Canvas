@@ -147,3 +147,6 @@ Real-time OpenCV Display
 ---
 
 ⭐ *If you found this project interesting, consider giving it a star!*
+
+
+https://resume-ranker-pro.streamlit.app
